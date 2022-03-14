@@ -28,7 +28,7 @@ public class OrderTraversal {
         node2.left=node6;
         node2.right=node7;
 
-        System.out.println(postOrderTraversalR(root));
+        System.out.println(inOrderTraversal(root));
 
     }
 
