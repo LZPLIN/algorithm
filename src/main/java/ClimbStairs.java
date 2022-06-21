@@ -9,7 +9,7 @@ import java.util.HashMap;
 public class ClimbStairs {
     public static void main(String[] args) {
 
-        int i = climbStairs(22);
+        int i = climbStairs(6);
         System.out.println(i);
 
     }

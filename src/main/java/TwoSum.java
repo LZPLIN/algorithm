@@ -4,7 +4,8 @@ import java.util.HashMap;
 
 public class TwoSum {
     public static void main(String[] args) {
-
+        int[] ints = {1,2,3,4,5,6};
+        System.out.println(twoSum_2(ints,10));
     }
 
     // 暴力破解法 求两数之和
